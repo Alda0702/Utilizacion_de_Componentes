@@ -1,0 +1,52 @@
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\12032025.exe.config
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\12032025.exe
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\12032025.pdb
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\12032025.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\Interop.WMPLib.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\12032025.csproj.ResolveComReference.cache
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\_12032025.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\_12032025.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\12032025.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\12032025.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\12032025.exe
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\12032025.pdb
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\Interop.SHDocVw.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\Interop.SHDocVw.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\_12032025.frmAdobe.resources
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\_12032025.frmNavegador.resources
+C:\Users\usuario\Documents\Visual Studio 2022\12032025\12032025\obj\Debug\_12032025.frmElegir.resources
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\12032025.exe.config
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\12032025.exe
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\12032025.pdb
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\Interop.AcroPDFLib.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\Interop.SHDocVw.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\Interop.WMPLib.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\AxInterop.SHDocVw.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\bin\Debug\AxInterop.WMPLib.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\12032025.csproj.AssemblyReference.cache
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\Interop.AcroPDFLib.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\Interop.SHDocVw.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\Interop.WMPLib.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\AxInterop.SHDocVw.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\AxInterop.WMPLib.dll
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\12032025.csproj.ResolveComReference.cache
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\_12032025.Form1.resources
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\_12032025.frmAdobe.resources
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\_12032025.frmElegir.resources
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\_12032025.frmNavegador.resources
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\_12032025.Properties.Resources.resources
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\12032025.csproj.GenerateResource.cache
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\12032025.csproj.CoreCompileInputs.cache
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\12032025.exe
+D:\DATOS\Downloads\12032025\12032025\12032025\obj\Debug\12032025.pdb
